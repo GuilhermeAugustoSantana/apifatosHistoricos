@@ -1,0 +1,12 @@
+API
+- recebe o ano informado pelo usuario e instancia a variavei ano
+- envia para o serviço a variavel
+- recebe o retorno dp serviço
+- retorna o resultado para o usuario
+
+
+serviço
+- recebe a variavel da API
+- verifica se o ano é valido
+- compara o ano informado com um ano correspondende com os dados salvos
+- retorna o resultado
